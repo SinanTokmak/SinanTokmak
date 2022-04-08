@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 <div align="center">
-<img max-width="800" src="https://raw.githubusercontent.com/innng/innng/master/assets/banner.png"/>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true" width = 400>
+</p>
 </div>
 
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Links
